@@ -3,7 +3,7 @@ using System.IO.Pipes;
 
 namespace Evaluator.core
 {
-    public class ExpressionEvaluator
+    public class MyEvaluator
     {
         public static double Evaluate(String infix)//va hacer el metodo que evalua
         {
